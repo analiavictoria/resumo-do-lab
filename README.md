@@ -14,3 +14,7 @@ Aprendi sobre o que é computação em nuvem, seus benefícios e os diferentes t
 
 - Despesas de capital (CapEx): o gasto inicial de dinheiro em infraestrutura física e tem um valor que se reduz com o tempo.
 - Despesas Operacionais (OpEx): gastar com produtos e serviços conforme necessário, pagamento conforme o uso.
+
+## Modelo baseado em consumo
+
+Os provedores de serviços em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais pagam somente pelos recursos que usam. Há melhor previsão de custos, são fornecidos preços para recursos e serviços individuais e a cobrança é feita com base no seu uso real.
